@@ -1,12 +1,9 @@
-## Hi there 👋
+<h1 style="text-align:center;">Hello and welcome to Datahax</h1>
 
-<!--
+![datahax](./profile/datahax-monitor-960x540.png)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are a group of computer world enthusiasts united in our shared vision of
+doing just nothing most of the time, but at other times devoting years and years
+to something fun that we enjoy. If you also happen to enjoy things of that
+nature, maybe ask around and join our Discord? It's free and sometimes even fun.
+Oh, you've joined already? Great. Thanks.
